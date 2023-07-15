@@ -2,7 +2,7 @@
 Predictions_with_memes_game Write your question in the input field and press the button - the game will answer it. The interpretation is up to the questioner.
 
 How to run the application:
-1. git clone how to run the application https://github.com/DarRo9/Predictions_with_memes_game.git
+1. git clone https://github.com/DarRo9/Predictions_with_memes_game.git
 2. go build main.go
 3. go run main.go
 
